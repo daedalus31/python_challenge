@@ -1,5 +1,6 @@
 # PyCharm config
 .idea/
+.vscode
 
 *.zip
 
